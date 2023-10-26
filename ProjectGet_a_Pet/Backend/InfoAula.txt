@@ -1,0 +1,8 @@
+Comandos utilizadodos
+
+'npm init -y'
+'npm install bcrypt cookie-parser cors express jsonwebtoken mongoose multer nodemon'
+
+acript usado package.json
+
+"start":"nodemon .index.js localhost 5000"
