@@ -1,0 +1,9 @@
+COmandos realizados nas aulas
+
+'npm init -y'
+
+'npm install express nodemon'
+
+no package.json ele colocou o codigo do nodemon
+
+"start":"nodemon ./index.js localhost 3000"
